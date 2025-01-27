@@ -12,6 +12,7 @@
 
 Tested with:
 - ESP8266 (board Wemos D1 mini)
+-  working on TOTAL SENCE LD2450 SEEED XIO ESP32 BOARD
 
 ## Usage
 ### Step 1: Build a control circuit.
