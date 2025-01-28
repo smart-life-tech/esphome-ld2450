@@ -42,7 +42,7 @@ namespace esphome
 
         void LD2450::loop()
         {               // Add a short delay to yield control and avoid blocking
-            delay(100); // Adjust delay as necessary
+            delay(1000); // Adjust delay as necessary
             char c = read();
             if (available() > 0)
             {
